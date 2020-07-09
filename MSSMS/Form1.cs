@@ -19,7 +19,7 @@ namespace MSSMS
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //nothing's here yet. is that so? okay.
+            //nothing's here yet. is that so? okay.dd
         }
     }
 }
